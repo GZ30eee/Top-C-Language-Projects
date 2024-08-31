@@ -3,7 +3,7 @@
 ![C Language](https://img.shields.io/badge/language-C-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-This repository contains a collection of various C language projects. Click on a project to view its GitHub repository.
+This repository contains a collection of various C language projects. [Click here](https://gz30eee.github.io/Top-C-Language-Projects/C-projects/index.html) to view the full project.
 
 ## Projects
 
